@@ -1,0 +1,23 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 2em;
+}
+
+#main-heading {
+    color: #004080;
+}
+
+.styled {
+    color: #fff;
+    background-color: #004080;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
